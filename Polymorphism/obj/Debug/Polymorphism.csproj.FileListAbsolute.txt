@@ -1,0 +1,7 @@
+E:\kampus\Pemrograman\Polymorphism\Polymorphism\obj\Debug\Polymorphism.csprojAssemblyReference.cache
+E:\kampus\Pemrograman\Polymorphism\Polymorphism\obj\Debug\Polymorphism.csproj.CoreCompileInputs.cache
+E:\kampus\Pemrograman\Polymorphism\Polymorphism\bin\Debug\Polymorphism.exe.config
+E:\kampus\Pemrograman\Polymorphism\Polymorphism\bin\Debug\Polymorphism.exe
+E:\kampus\Pemrograman\Polymorphism\Polymorphism\bin\Debug\Polymorphism.pdb
+E:\kampus\Pemrograman\Polymorphism\Polymorphism\obj\Debug\Polymorphism.exe
+E:\kampus\Pemrograman\Polymorphism\Polymorphism\obj\Debug\Polymorphism.pdb
